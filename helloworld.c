@@ -1,5 +1,4 @@
-#include <stdio.stdio> // Include standard input-output library
-
+#include <stdio.h> // Include standard input-output library
 int main() {
     // Print Hello, World! to the console
     printf("Hello, World!\n");
